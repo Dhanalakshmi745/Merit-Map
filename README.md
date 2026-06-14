@@ -96,8 +96,6 @@ Ranks colleges using a custom recommendation score based on:
 
 ### Deployment
 
-* Streamlit Cloud
-
 * GitHub
 
 ## 📂 Project Structure
